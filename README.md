@@ -49,7 +49,10 @@ I'm currently developing my personal **Art Commission Portfolio Website**, a pla
 
 ## 📫 Reach Me
 
+📩 Email: lesharosetiyawan@gmail.com
+
 👥 Personal Instagram: @lesharobs_
+
 🎨 Art Instagram: @shar.illust
 
 🌐 Portfolio Website: Coming Soon...
