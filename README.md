@@ -1,62 +1,123 @@
 # Hi, I'm Lesharo Bladen Setiawan 👋
 
-### High School Student | AI Engineering Learner | Web Developer | Digital Artist
+**High School Student | AI & Data Science | Software Development**
 
-I'm a high school student from Indonesia with a strong interest in mathematics, technology, design, and artificial intelligence.
+I'm a high school student from Indonesia interested in artificial intelligence, data science, software development, and product building. I enjoy turning ideas into practical solutions — from machine learning projects and data competitions to building AI-powered products.
 
-I enjoy building projects that combine creativity and technology, ranging from AI projects to web development to educational and productivity-focused solutions. My long-term goal is to use technology to create a meaningful impact on society.
+Currently, I'm building **SAMOSA AI**, an AI-powered feedback analytics platform, while exploring machine learning, data science, and modern web development.
 
 ---
 
-## 🚀 Current Project
+## 🏆 Highlights
 
-I'm currently developing my personal **Art Commission Portfolio Website**, a platform where I showcase my artwork, commission services, and creative projects.
+- 🥈 **1st Runner-Up** — Datathon UI 2026
+  - #2 Audio Processing
+  - #2 Natural Language Processing
+  - #3 Computer Vision
+- 🌎 **Top 50 Finalist** — Global Youth Innovation Summit #16 (2026)
+- 🤖 **Semifinalist** — EKKA 2026
 
-### Current Focus
-- Building a professional online portfolio
-- Improving UI/UX design skills
-- Learning modern web development practices
-- Expanding my digital art commission services
+---
+
+## 🚀 Featured Project
+
+### [SAMOSA AI](https://github.com/leshbs/samosa)
+*Smart Aspiration Monitoring and Opinion Summarization Assistant*
+
+SAMOSA AI is an AI-powered feedback analytics platform designed to transform large amounts of survey and feedback data into structured insights, statistics, and reports.
+
+**What I'm building:**
+- Automated feedback and sentiment analysis
+- Theme and keyword extraction
+- Qualitative insight generation
+- Rating and numerical analysis
+- Subgroup comparisons
+- AI-generated reports and summaries
+- Web-based analytics dashboard
+
+**Status:** MVP / In Development
+
+Building SAMOSA as a practical intersection of AI, data analysis, and product development.
+
+---
+
+## 🧠 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Natural Language Processing
+- Computer Vision
+- Audio Processing
+- Web Development
+- AI Product Development
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### Programming & Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**
 
-### Design & Creativity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-3BABFF?style=for-the-badge&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
+**AI / Machine Learning**
 
-### Productivity
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat)
 
----
+**Data Science**
 
-## 📚 Currently Learning
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv)
 
-- Web Development
-- UI/UX Design
-- Artificial Intelligence
-- Competitive Mathematics
+**Web Development**
 
----
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
-## 📫 Reach Me
+**Tools**
 
-📩 Email: lesharosetiyawan@gmail.com
-
-👥 Personal Instagram: @lesharobs_
-
-🎨 Art Instagram: @shar.illust
-
-🌐 Portfolio Website: Coming Soon...
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat&logo=canva)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
 ---
 
-> "Building, learning, and improving at a time."
+## 📌 Selected Projects
+
+### 🤖 SAMOSA AI
+AI-powered feedback analytics platform currently under development.
+
+### 🧮 Cryptarithm Solver
+A web-based solver for cryptarithm puzzles, built as a programming project.
+
+### 🌐 Web Development Projects
+A collection of academic and personal projects exploring frontend development and interactive web applications.
+
+*More projects coming soon.*
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Machine Learning
+- Natural Language Processing
+- AI-powered applications
+- Data analysis & visualization
+- Full-stack web development
+- Competitive programming & problem solving
+
+---
+
+## 📫 Contact
+
+- 📩 **Email:** [lesharosetiyawan@gmail.com](mailto:lesharosetiyawan@gmail.com)
+- 👥 **Instagram:** [@lesharobs_](https://instagram.com/lesharobs_)
+- 💻 **GitHub:** Here!
+
+---
+
+*Building, learning, and improving — one project at a time.*
