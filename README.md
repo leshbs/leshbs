@@ -120,4 +120,4 @@ A collection of academic and personal projects exploring frontend development an
 
 ---
 
-*Building, learning, and improving — one project at a time.*
+*Building, learning, and improving at a time.*
