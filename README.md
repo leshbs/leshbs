@@ -1,6 +1,6 @@
 # Hi, I'm Lesharo Bladen Setiawan 👋
 
-**High School Student | AI & Data Science | Software Development**
+**High School Student | AI & Data Science | Web Development**
 
 I'm a high school student from Indonesia interested in artificial intelligence, data science, software development, and product building. I enjoy turning ideas into practical solutions — from machine learning projects and data competitions to building AI-powered products.
 
