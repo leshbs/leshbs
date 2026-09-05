@@ -1,6 +1,6 @@
 # Hi, I'm Lesharo Bladen Setiawan 👋
 
-### High School Student | Mathematics Enthusiast | AI Engineering Scholar | Web Developer | Digital Artist
+### High School Student | AI Engineering Learner | Web Developer | Digital Artist
 
 I'm a high school student from Indonesia with a strong interest in mathematics, technology, design, and artificial intelligence.
 
