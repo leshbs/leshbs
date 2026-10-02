@@ -11,9 +11,6 @@ Currently, I'm building **SAMOSA AI**, an AI-powered feedback analytics platform
 ## 🏆 Highlights
 
 - 🥈 **1st Runner-Up** — Datathon UI 2026
-  - #2 Audio Processing
-  - #2 Natural Language Processing
-  - #3 Computer Vision
 - 🌎 **Top 50 Finalist** — Global Youth Innovation Summit #16 (2026)
 - 🤖 **Semifinalist** — EKKA 2026
 
